@@ -1,0 +1,15 @@
+C:\Users\MAKS\Desktop\Seminar_1C#\obj\Debug\net6.0\Seminar_1C#.csproj.AssemblyReference.cache
+C:\Users\MAKS\Desktop\Seminar_1C#\obj\Debug\net6.0\Seminar_1C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAKS\Desktop\Seminar_1C#\obj\Debug\net6.0\Seminar_1C#.AssemblyInfoInputs.cache
+C:\Users\MAKS\Desktop\Seminar_1C#\obj\Debug\net6.0\Seminar_1C#.AssemblyInfo.cs
+C:\Users\MAKS\Desktop\Seminar_1C#\obj\Debug\net6.0\Seminar_1C#.csproj.CoreCompileInputs.cache
+C:\Users\MAKS\Desktop\Seminar_1C#\bin\Debug\net6.0\Seminar_1C#.exe
+C:\Users\MAKS\Desktop\Seminar_1C#\bin\Debug\net6.0\Seminar_1C#.deps.json
+C:\Users\MAKS\Desktop\Seminar_1C#\bin\Debug\net6.0\Seminar_1C#.runtimeconfig.json
+C:\Users\MAKS\Desktop\Seminar_1C#\bin\Debug\net6.0\Seminar_1C#.dll
+C:\Users\MAKS\Desktop\Seminar_1C#\bin\Debug\net6.0\Seminar_1C#.pdb
+C:\Users\MAKS\Desktop\Seminar_1C#\obj\Debug\net6.0\Seminar_1C#.dll
+C:\Users\MAKS\Desktop\Seminar_1C#\obj\Debug\net6.0\refint\Seminar_1C#.dll
+C:\Users\MAKS\Desktop\Seminar_1C#\obj\Debug\net6.0\Seminar_1C#.pdb
+C:\Users\MAKS\Desktop\Seminar_1C#\obj\Debug\net6.0\Seminar_1C#.genruntimeconfig.cache
+C:\Users\MAKS\Desktop\Seminar_1C#\obj\Debug\net6.0\ref\Seminar_1C#.dll
