@@ -100,7 +100,8 @@ class Program
 
 Console.WriteLine("Введите число");
 
-int n = int.Parse(Console.ReadLine()!);
+// int n = int.Parse(Console.ReadLine()!);
+int n = Convert.ToInt32(Console.ReadLine());
 int i = 0;
 // int i = -n;
 if (n > 0)
